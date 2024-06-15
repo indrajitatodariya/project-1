@@ -1,0 +1,112 @@
+body{
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+.m{
+    display: flex;
+    gap: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.in1{
+    border: solid;
+    width: 150px;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all ease-in-out 0.5s;
+    background-image: url(gaming.png);
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    font-size: 21px;
+    align-items: end;
+}
+.in1:hover{
+    width:900px
+}
+
+.in2{
+    border: solid;
+    width: 150px;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all ease-in-out 0.5s;
+    background-image: url(/movie.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    font-size: 21px;
+    align-items: end;
+
+}
+.in2:hover{
+    width:900px
+}
+
+
+.in3{
+    border: solid;
+    width: 150px;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all ease-in-out 0.5s;
+    background-image: url(/song.png);
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    font-size: 21px;
+    align-items: end;
+
+}
+.in3:hover{
+    width:900px
+}
+.in4{
+    border: solid;
+    width: 150px;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all ease-in-out 0.5s;
+    background-image: url(/book.png);
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    font-size: 21px;
+    align-items: end;
+
+}
+.in4:hover{
+    width:900px
+}
+.in5{
+    border: solid;
+    width: 150px;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all ease-in-out 0.5s;
+    background-image: url(/anime.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    font-size: 21px;
+    align-items: end;
+
+}
+.in5:hover{
+    width:900px
+}
